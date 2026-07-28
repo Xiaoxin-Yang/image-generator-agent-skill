@@ -1,0 +1,4 @@
+interface:
+  display_name: "记忆街道工作流"
+  short_description: "Orchestrate memory collection, generation, and image review"
+  default_prompt: "Use $plan-memory-street-image-workflow to turn my childhood street memory into three evaluated images."

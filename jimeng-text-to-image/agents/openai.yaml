@@ -1,0 +1,4 @@
+interface:
+  display_name: "即梦文生图"
+  short_description: "Generate candidate images through the Volcengine Jimeng API"
+  default_prompt: "Use $jimeng-text-to-image to generate candidate street-memory images from my confirmed prompt."

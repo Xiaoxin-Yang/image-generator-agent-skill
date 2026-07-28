@@ -1,0 +1,4 @@
+interface:
+  display_name: "记忆街道图像校准"
+  short_description: "Evaluate candidate images against confirmed memory constraints"
+  default_prompt: "Use $memory-street-image-calibrator-cn to evaluate these candidate images against my confirmed memory."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "采集街道记忆"
+  short_description: "Collect and structure one continuous childhood street memory"
+  default_prompt: "Use $collect-street-memory to interview me about one continuous childhood street scene."
