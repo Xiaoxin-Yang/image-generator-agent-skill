@@ -1,1 +1,1 @@
-# image-generation-agent
+# image-generator-agent-skill
